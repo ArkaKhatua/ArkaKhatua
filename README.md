@@ -40,6 +40,12 @@
 <img height="300em"src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt"hello world"> <br><br><br>
 </div>
 
+<p align="center" >
+    <a href="https://github.com/ArkaKhatua/stats-terminal">
+        <img width="450px" src="https://cdn.jsdelivr.net/gh/ArkaKhatua/stats-terminal/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
+    </a>
+</p>
+
 <a href="https://github.com/ArkaKhatua?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=Teal&logo=repo"/>
   </a>
