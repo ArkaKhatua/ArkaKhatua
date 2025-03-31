@@ -12,7 +12,7 @@
 </p></h2>
 <!--💻Big SVG Coding-->
   <a href="https://github.com/ArkaKhatua">
-<img align='right' src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600"></a>
+<img align='right' src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="550"></a>
 
 ### 💻 I'm currently learning <img src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" width="50">
 
