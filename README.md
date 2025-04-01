@@ -230,7 +230,7 @@
 <h3>🏗️ Contributions (3D View) </h3> 
 <div align="center">
         
-![3D-Graph-Contribution](https://github.com/ArkaKhatua/ArkaKhatua/main/profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 </div>
 </details>
 
